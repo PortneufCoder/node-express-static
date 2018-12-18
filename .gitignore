@@ -4,4 +4,4 @@
 
 # dependencies
 
-*.json
+*lock.json
