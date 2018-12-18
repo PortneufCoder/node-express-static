@@ -1,0 +1,55 @@
+html:hover  {
+    background-color: black;
+    background-image: "totoro.jpg";
+}
+
+
+
+.genesis, .psychedelic, .live,  .rascals {
+    margin-top: 30px;
+    font-family: 'Trebuchet MS';
+    background-color: black;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+
+.psychedelic {
+    margin-top: 120px;
+    font-family: Georgia;
+    background-color: #d38583;
+    
+}
+
+.lights {
+    margin-top: 120px;
+    font-family: 'Franklin Gothic Medium';
+    background-color: #F5AB5A;
+    text-align: right;
+    font-size: 40px;
+    color: white;
+    padding-right: 30px;
+}
+
+.zoor {
+    margin-top: 120px;
+    font-family: 'Haettenschweiler';
+    background-color: #828271;
+    font-size: 40px;
+    color: white;
+    text-align: left;
+    padding-left: 30px;
+}
+
+.rascals {
+    margin-top: 120px;
+    font-family: 'Trebuchet MS';
+    background-color: #49aad6;
+}
+
+.live {
+    margin-top: 120px;
+    padding-bottom: 35px;
+    font-family: 'cursive';
+}

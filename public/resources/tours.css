@@ -1,0 +1,54 @@
+ html {
+    background-color: #343a40;
+    
+ }
+
+ body {
+     color: #f7f7f7;
+ } 
+
+
+.headline {
+    padding-top: 20px;
+    text-align: center;
+    margin-top: 40px;
+    color: black;
+    font-weight: bold;
+
+}
+
+
+div.video  {
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+    margin-bottom: 42px;
+
+}
+
+.members {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: #343a40;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 60px;
+}
+
+.july, .may, .october, .september, .january, .march {
+    color: #343a40;
+    display: flex;
+
+}
+
+.october {
+    padding-bottom: -40px;
+}
