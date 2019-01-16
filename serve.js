@@ -5,8 +5,6 @@ const app = express();
 
 app.use(express.static(path.join(__dirname, 'public')));
 
-
-
 const port = 3030;
 
 app.listen(port, () => {
