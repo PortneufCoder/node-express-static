@@ -13,4 +13,4 @@ router.get("/", (req, res, next) => {
 module.exports = router;
 
 // next() is only called when we don't send a response
-// else, we use next() to pass action tot eh next middleware
+// else, we use next() to pass action to the next middleware
